@@ -281,6 +281,9 @@ form {
     margin-right: auto;
     margin-left: auto;
   }
+  .projects-text1 {
+    display: none;
+  }
   .projects-text2 {
     display: block;
     padding-top: 2rem;
